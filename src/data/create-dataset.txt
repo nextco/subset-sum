@@ -1,0 +1,8 @@
+- Generate numbers without repetition in linux
+
+shuf -i 0-100 -n 25 > numbers-25.txt
+shuf -i 0-100 -n 26 > numbers-26.txt 
+shuf -i 0-100 -n 27 > numbers-27.txt 
+shuf -i 0-100 -n 28 > numbers-28.txt
+shuf -i 0-100 -n 30 > numbers-30.txt
+shuf -i 0-100 -n 40 > numbers-40.txt 
